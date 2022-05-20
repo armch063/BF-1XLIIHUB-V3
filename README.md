@@ -9127,4 +9127,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OPPV01/1XLII-HUB-/mai
 
 
 --loadstring(game:HttpGet("https://github.com/armch063/...../files/8701262/1xliiHub.txt)
-"))()
+"))();
