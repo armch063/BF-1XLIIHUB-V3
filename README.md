@@ -9104,12 +9104,13 @@
 
 
 
+loadstring(game:HttpGet("https://pastebin.com/raw/w4myjf3i"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/w4myjf3i"))()
 
 
 
 
-
-
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/armch063/BF-1XLIIHUB-V3/main/README.md', true))()
 
 
 
@@ -9123,9 +9124,10 @@ loadstring(game:HttpGet('https://github.com/armch063/...../files/8735639/1XLII_H
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OPPV01/1XLII-HUB-/main/output-Nzlz.lua"))();
 
-loadstring(game:HttpGet("https://pastebin.com/raw/w4myjf3i"))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/OPPV01/1XLII-HUB-/main/output-Nzlz.lua"))();
+
+
 
 loadstring(game:HttpGet("https://github.com/armch063/...../files/8701262/1xliiHub.txt)
 "))();
