@@ -1,2 +1,2 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OPPV01/1XLII-HUB-/main/output-Nzlz.lua", true))()
+loadstring(game:HttpGet("https://github.com/armch063/...../files/8746155/1xliiHubV3.txt", true))()
